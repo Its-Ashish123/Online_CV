@@ -1,2 +1,2 @@
-# Online_CV
-Online CV using HTML, CSS and JavaScript. 
+# Prathamesh-Gujjeti-Portfolio
+https://prathameshgujjeti.github.io/Prathamesh-Gujjeti-Portfolio
